@@ -14,3 +14,8 @@ A curated collection of daily ChatGPT prompts from the #2WeeksOfAI challenge hos
 
 𝐖𝐡𝐲 𝐈 𝐬𝐡𝐚𝐫𝐞𝐝 𝐭𝐡𝐢𝐬:
 Generative AI is a powerful tool, but its true potential lies in the quality of the prompt. This collection is intended to help anyone who is "AI-curious" but feels overwhelmed, providing a roadmap to turn ChatGPT into a personal mentor.
+
+# Steps to use - 
+i. Head to chatgpt.com, start a new chat and copy the prompt
+ii. Interact with ChatGPT based on the replies
+iii. Once you have completed the chat, Save your Results and follow.
